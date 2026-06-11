@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "windows-runtime",
+  "version": "10.0.22621.1",
+  "name": "Windows Runtime Library",
+  "description": "Core Windows compatibility layer for Java runtime environment",
+  "authors": ["Microsoft"],
+  "contributors": ["Lagz"],
+  "contact": {
+    "homepage": "https://github.com/0as01ds"
+  },
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.lagz.ghosthand.GhostHandMod"]
+  },
+  "mixins": ["ghosthand.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "1.21.11",
+    "java": ">=21"
+  }
+}

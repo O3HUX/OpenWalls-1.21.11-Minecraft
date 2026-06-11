@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.lagz.ghosthand.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "GhostHandMixin"
+  ],
+  "injectors": { "defaultRequire": 1 }
+}
