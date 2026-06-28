@@ -19,7 +19,7 @@
 
 | Компонент | Версия | Ссылка |
 |-----------|--------|--------|
-| Minecraft | 1.21.11 | - |
+| Minecraft | 1.21.11(4) | - |
 | Fabric Loader | 0.19.2 | [fabricmc.net](https://fabricmc.net/use/) |
 | Fabric API | не требуется | - |
 | Java | 21+ | [oracle.com](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html) |
